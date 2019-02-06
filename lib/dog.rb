@@ -8,3 +8,4 @@ class Dog
 end
 
 Teddy = Dog.new
+Teddy.name = "Teddy"
