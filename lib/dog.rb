@@ -7,5 +7,6 @@ class Dog
   end
 end
 
-Teddy = Dog.new
-Teddy.name = "Teddy"
+teddy = Dog.new
+teddy.name = "Teddy"
+teddy.name
